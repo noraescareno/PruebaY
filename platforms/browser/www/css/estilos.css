@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+}
+
+#div_botones{
+    position: absolute;
+    display:block;
+    width: 100%;
+    text-align: center;
+}
+
+#titulo{
+    margin-top: 5%;
+    color:white;
+    width: 100%;
+    border-bottom:1px solid orange;
+}
+
+#b_datos{
+    width: 70%;
+    padding:10px;
+    margin-top: 20%;
+}
+
+#b_lista{
+    width: 70%;
+    padding:10px;
+    margin-top: 20%;
+}
+
+#div_lista{
+    position: absolute;
+    width: 100%;
+    display:none;
+}
+
+#lista_li{
+    width: 80%;
+    border:1px solid orange;
+    color:white;
+    padding:5px;
+}
